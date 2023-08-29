@@ -1,4 +1,5 @@
-module Task-manager
+module github.com/Takeasoul/Task-manager
+
 
 go 1.20
 
